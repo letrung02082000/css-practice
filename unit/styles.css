@@ -1,0 +1,21 @@
+html {
+  font-size: 15px;
+}
+
+.box {
+  background-color: white;
+  display: flex;
+  font-size: 20px;
+}
+
+.em {
+  background-color: red;
+  width: 10em;
+  height: 10em;
+}
+
+.rem {
+  background-color: blue;
+  width: 10rem;
+  height: 10rem;
+}
